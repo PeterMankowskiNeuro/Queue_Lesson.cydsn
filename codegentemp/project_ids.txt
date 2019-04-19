@@ -1,0 +1,6 @@
+C:\Users\seeho\Documents\GitHub\Queue_Lesson.cydsn\Queue_Lesson.cyprj|d288a3e0-aa27-48f7-b8ca-1fc5002b99c1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|e52341d5-d73b-4c26-82b4-c0b73ae8f5fa
+C:\Users\seeho\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|3a6e487e-09fd-420d-b08b-7caa8d1aa60f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|fcb07213-d549-4d33-aa69-501980923fc4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ab1a61ed-d672-4024-9888-c2a3696ee477
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|722b9617-1223-46bc-b775-c0a7ae40ef2b
