@@ -6,7 +6,7 @@
  *
  * CONFIDENTIAL AND PROPRIETARY INFORMATION
  * WHICH IS THE PROPERTY OF Novela Neuro.
- *
+ * Author: Peter Mankowski
  * ========================================
 */
 #pragma     once
