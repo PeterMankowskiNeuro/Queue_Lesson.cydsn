@@ -1,7 +1,9 @@
 /******************************************************************************
 * File Name: main_cm4.c
 *
-* Version 2.0
+* Version 3.0
+*
+* GitHUB Initial Revision
 *
 * Description:
 *  This code example demonstrates the use of GPIO configured as an input pin to
