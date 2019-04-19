@@ -1,9 +1,7 @@
 /******************************************************************************
 * File Name: main_cm4.c
 *
-* Version 3.0
-*
-* GitHUB Initial Revision
+* Version 2.0
 *
 * Description:
 *  This code example demonstrates the use of GPIO configured as an input pin to
@@ -56,7 +54,7 @@ int main(void)
     
     UART_1_Start();
     setvbuf( stdin, NULL, _IONBF, 0);
-    printf("UART Init Success.\r\n");
+    printf("GitHUB Lesson for Saturday.\r\n");
     
     /********* Create and initialize the main queue here ********/
     xQueue1 = xQueueCreate( 1,            /* Number of elements */
